@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Priya",
+    "role": "Software Engineer"
+  },
+  {
+    "name": "Amit",
+    "role": "Product Manager"
+  },
+  {
+    "name": "Sneha",
+    "role": "Data Scientist"
+  },
+  {
+    "name": "Vikram",
+    "role": "UI/UX Designer"
+  },
+  {
+    "name": "Anjali",
+    "role": "Marketing Specialist"
+  },
+  {
+    "name": "Rahul",
+    "role": "Backend Developer"
+  },
+  {
+    "name": "Kavita",
+    "role": "Frontend Developer"
+  }
+]
